@@ -42,7 +42,6 @@ windows和linux平台下用C/C++处理中文字符的知识点记录。
 [http://www.cnblogs.com/KevinYang/archive/2010/06/18/1760597.html](http://www.cnblogs.com/KevinYang/archive/2010/06/18/1760597.html)
 [http://blog.csdn.net/shellching/article/details/5316442](http://blog.csdn.net/shellching/article/details/5316442)
 
-
 [UNICODE]: https://en.wikipedia.org/wiki/Unicode
 [UTF8]: https://en.wikipedia.org/wiki/UTF-8
 [UTF16]: https://en.wikipedia.org/wiki/UTF-16
